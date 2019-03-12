@@ -1,0 +1,27 @@
+{
+  "name": "googlechatbot",
+  "version": "1.0.0",
+  "description": "Send messages to Google Hangouts Chat rooms",
+  "main": "GoogleChatBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldonzo/GoogleChatBot.git"
+  },
+  "keywords": [
+    "google",
+    "chat",
+    "hangouts"
+  ],
+  "author": "Davide Stefanini",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/eldonzo/GoogleChatBot/issues"
+  },
+  "homepage": "https://github.com/eldonzo/GoogleChatBot#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
