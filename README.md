@@ -1,4 +1,4 @@
 # GoogleChatBot
 Send messages to Google Hangouts Chat rooms
 
-- Work in progrss -
+* Work in progress *
